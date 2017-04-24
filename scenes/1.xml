@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene PGFVersion="0.25" GSCVersion="1.25.6227" id="id507172">
+  <layers>
+    <layer id="id722963">
+      <actors>
+        <actor id="id377508" prototype="id749532">
+          <attributes>
+            <point id="position">
+              <real id="x">231</real>
+              <real id="y">210</real>
+            </point>
+            <size id="size">
+              <real id="width">324</real>
+              <real id="height">30</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id987356" prototype="id749532">
+          <attributes>
+            <point id="position">
+              <real id="x">667</real>
+              <real id="y">151</real>
+            </point>
+            <size id="size">
+              <real id="width">324</real>
+              <real id="height">30</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <text id="name">Floor Copy 1</text>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id600816" prototype="id243655">
+          <attributes>
+            <point id="position">
+              <real id="x">76</real>
+              <real id="y">354</real>
+            </point>
+            <size id="size">
+              <real id="width">39</real>
+              <real id="height">120</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id515146" prototype="id749532">
+          <attributes>
+            <point id="position">
+              <real id="x">397</real>
+              <real id="y">375</real>
+            </point>
+            <size id="size">
+              <real id="width">324</real>
+              <real id="height">30</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <text id="name">Floor Copy 2</text>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id167738" prototype="id749532">
+          <attributes>
+            <point id="position">
+              <real id="x">777</real>
+              <real id="y">419</real>
+            </point>
+            <size id="size">
+              <real id="width">324</real>
+              <real id="height">30</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <text id="name">Floor Copy 3</text>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id550980" prototype="id480946">
+          <attributes>
+            <point id="position">
+              <real id="x">778</real>
+              <real id="y">281</real>
+            </point>
+            <size id="size">
+              <real id="width">15</real>
+              <real id="height">20</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id616621" prototype="id126682">
+          <attributes>
+            <point id="position">
+              <real id="x">508</real>
+              <real id="y">65</real>
+            </point>
+            <size id="size">
+              <real id="width">1241.6</real>
+              <real id="height">120</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id191115" prototype="id749532">
+          <attributes>
+            <point id="position">
+              <real id="x">383</real>
+              <real id="y">603</real>
+            </point>
+            <size id="size">
+              <real id="width">324</real>
+              <real id="height">30</real>
+            </size>
+            <angle id="rotation">-28.9091836511478</angle>
+            <text id="name">Floor Copy 4</text>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id242113" prototype="id749532">
+          <attributes>
+            <point id="position">
+              <real id="x">576</real>
+              <real id="y">694</real>
+            </point>
+            <size id="size">
+              <real id="width">324</real>
+              <real id="height">30</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <text id="name">Floor Copy 5</text>
+          </attributes>
+          <aspects />
+        </actor>
+      </actors>
+      <attributes>
+        <text id="name">Background</text>
+        <boolean id="scrollable">true</boolean>
+      </attributes>
+    </layer>
+  </layers>
+  <attributes>
+    <text id="name">Initial Scene</text>
+    <real id="time">0</real>
+    <size id="size">
+      <real id="width">1024</real>
+      <real id="height">1000</real>
+    </size>
+    <boolean id="wrapX">false</boolean>
+    <boolean id="wrapY">false</boolean>
+    <point id="gravity">
+      <real id="x">0</real>
+      <real id="y">0</real>
+    </point>
+    <color id="color">
+      <real id="red">0</real>
+      <real id="green">0</real>
+      <real id="blue">0</real>
+      <real id="alpha">1</real>
+    </color>
+    <rect id="camera">
+      <point id="origin">
+        <real id="x">194</real>
+        <real id="y">164</real>
+      </point>
+      <size id="size">
+        <real id="width">800</real>
+        <real id="height">500</real>
+      </size>
+      <size id="trackingArea">
+        <real id="width">40</real>
+        <real id="height">0</real>
+      </size>
+      <real id="rotation">0</real>
+    </rect>
+    <attributes id="autorotate">
+      <boolean id="landscapeLeft">true</boolean>
+      <boolean id="portrait">false</boolean>
+      <boolean id="landscapeRight">false</boolean>
+      <boolean id="portraitUpsideDown">false</boolean>
+    </attributes>
+  </attributes>
+</scene>
